@@ -1,20 +1,18 @@
-# logistics-carrier-os-fleet-ledger
+# Logistics Carrier OS - Fleet Management Ledger
 
-# Logistics Carrier OS Fleet Management Back-Office Operating System & Multi-Rig Ledger
+Corporate Operations Back-Office Dashboard & Standalone Management Engine
 
-Welcome to the official repository for the Logistics Carrier OS Framework—a permanent-ownership, break-proof back-office tracking ledger engineered exclusively for elite Microsoft Excel (.xlsx) and cloud Notion dashboards. Bypassing generic accounting rows, this standalone architecture handles high-velocity heavy transport dispatch, driver payroll variables, and fleet distance parameters natively on background automation.
+![Vivid Operating Dashboard](preview.png)
 
-🔒 **100% Corporate Vault-Secured:** This Excel Ledger is completely Macro-Free, formula-locked, and guaranteed to clear all strict corporate firewalls instantly.
+> ### 🔑 SECURE ENTERPRISE PROCURE CONDUIT
+> Bypass bloated monthly software licensing fees instantly. Secure your permanent, offline dark-mode corporate Excel operating workbook below:
+> 
+> <a href="https://gumroad.com" target="_blank" style="display: inline-block; background-color: #007bff; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 16px; margin: 8px 0; text-align: center; box-shadow: 0 3px 5px rgba(0,0,0,0.1);">👉 PROCURE THE OPERATION ENGINE NOW (\$149.00)</a>
+> 
+> *⚡ One-Time Corporate License. Permanent Local Ownership. Instant Vault Delivery.*
 
-## ⚙️ Core Operational Infrastructure Engaged
-* **Fleet Asset Tracking & Dispatch Management:** Relational rows tracking truck IDs, carrier broker sheets, origin nodes, destination zones, and load ticket references.
-* **Fuel & Operational Burn Matrices:** Advanced cell arrays factoring fuel surcharges, trip distances, and toll expenses against gross yields.
-* **True Net Profit Margin Recalculations:** Live-updating formulas calculating driver payroll splits, carrier cuts, and true take-home cash flow margins.
+---
 
-## 📦 Procurement & Secure Download Gateway
-To bypass legacy monthly SaaS subscription software and initialize your break-proof digital download container, choose your native operational platform pipeline below:
+Welcome to the off-grid documentation node for the specialized Back-Office Operating System framework—a break-proof enterprise ledger engineered exclusively for elite Microsoft Excel (.xlsx) local deployments. Designed explicitly to lower monthly business software overhead, this standalone layout handles commercial dispatch tracking, real-time job costing, operational cost burn, and true net margin profit calculations natively on background formula automation.
 
-### 🚛 For Microsoft Excel Desktop Workspace ($149.00 One-Time Fee)
-👉 <a href="https://rentalengine.gumroad.com" target="_blank" rel="noopener noreferrer"><b>Procure the Excel Multi-Rig Ledger Here</b></a>
-
-*Developed by RentalEngine. Hardcoded macro-free integrity. All platform data rights reserved.*
+🔒 **100% Corporate Vault-Secured:** This industrial spreadsheet utility is completely Macro-Free, formula-locked, and cleared of tracking scripts to instantly satisfy strict company data firewalls.
