@@ -2,14 +2,17 @@
 
 Corporate Operations Back-Office Dashboard & Standalone Management Engine
 
-![Vivid Operating Dashboard](preview.png)
+<p align="center">
+  <img src="preview.png" width="85%" style="max-width: 400px; border-radius: 8px;">
+</p>
 
-> ### 🔑 SECURE ENTERPRISE PROCURE CONDUIT
-> Bypass bloated monthly software licensing fees instantly. Secure your permanent, offline dark-mode corporate Excel operating workbook below:
-> 
-> <a href="https://gumroad.com" target="_blank" style="display: inline-block; background-color: #007bff; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 16px; margin: 8px 0; text-align: center; box-shadow: 0 3px 5px rgba(0,0,0,0.1);">👉 PROCURE THE OPERATION ENGINE NOW (\$149.00)</a>
-> 
-> *⚡ One-Time Corporate License. Permanent Local Ownership. Instant Vault Delivery.*
+### 🔑 SECURE ENTERPRISE PROCURE CONDUIT
+Bypass bloated monthly software licensing fees instantly. Secure your permanent, offline dark-mode corporate Excel operating workbook below:
+
+👉 PROCURE THE OPERATION ENGINE NOW ($149.00)
+https://rentalengine.gumroad.com
+
+*⚡ One-Time Corporate License. Permanent Local Ownership. Instant Vault Delivery.*
 
 ---
 
